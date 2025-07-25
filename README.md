@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # nginx-dev
 
 🚀 **Entorno de Desarrollo Nginx Dockerizado** - Configuración profesional y reproducible para entornos de desarrollo locales con Nginx, Docker y buenas prácticas de infraestructura como código.
@@ -20,3 +21,7 @@ Este repositorio proporciona una base sólida para desarrollar aplicaciones web 
 git clone https://github.com/tu-usuario/nginx-dev.git
 cd nginx-dev
 docker-compose up -d
+||||||| (empty tree)
+=======
+# nginx-dev
+>>>>>>> 5639f90 (Initial commit)
